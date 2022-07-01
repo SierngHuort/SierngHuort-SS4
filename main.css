@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,200;1,400;1,600&display=swap');
+
+body{
+    background-color: #eeeeee;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+section{
+    margin-bottom: 5rem;
+}
+h1,h2,h3{
+    font-weight: 600;
+}
+.mynav{
+    background-color: #eeeeee;   
+}
+.summary-profile {
+    margin-top: 6rem;
+}
+   
+.summary-profile .profile img {
+    width: 70%;
+    
+    border-radius: 50%;
+}
+.summary-profile h1{
+    font-weight: 700;
+}
+.summary-profile h3{
+    font-style: italic;
+}
+.summary p{
+    line-height: 20px;
+}
+.social-link i{
+    font-size: 25px;
+    margin-right: 0.7rem;
+}
+.social-link i:hover{
+    cursor: pointer;
+}
+.social-link i.fa-facebook{
+    color: #4267b2;
+}
+.social-link i.fa-pinterest{
+    color: #e60023;
+}
+.social-link i.fa-twitter{
+    color: #00acee;
+}
+.social-link i.fa-skype{
+    color: #00aff0;
+}
+.social-link i.fa-telegram{
+    color: #00BBcc;
+}
+.social-link i.fa-linkedin{
+    color: #0072b1;
+}
+.social-link i.fa-youtube{
+    color: #c4302b;
+}
+.social-link i.fa-facebook:hover{
+    color: black;
+}
+.social-link i.fa-pinterest:hover{
+    color: black;
+}
+.social-link i.fa-twitter:hover{
+    color: black;
+}
+.social-link i.fa-skype:hover{
+    color: black;
+}
+.social-link i.fa-telegram:hover{
+    color: black;
+}
+.social-link i.fa-linkedin:hover{
+    color: black;
+}
+.social-link i.fa-youtube:hover{
+    color: black;
+}
+.about-me .btn-group{
+    margin-right: 4rem;
+}
+.about-me img{
+    width: 90%;
+}
+.footer hr{
+    margin-top: 0.2em;
+    margin-bottom: 0.5em ;
+    margin-left: auto;
+    margin-right: auto ;
+    border-style: inset ;
+    border-width: 3px;
+}
+.footer h2{
+    color: gray;
+}
+.footer nav a{
+    margin-right: 0.2rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: gray;
+}
+.footer p{
+    margin-top: 1px;
+    color: gray;
+}
